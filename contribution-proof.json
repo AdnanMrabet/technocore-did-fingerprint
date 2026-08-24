@@ -1,0 +1,7 @@
+{
+  "artifact_url": "https://github.com/AdnanMrabet/technocore-did-fingerprint",
+  "commit": "52c93de63ecbd7382379ecd5c28b1efdac6eb904",
+  "did": "did:key:z6Mkvtn5cKjPAyNpsbDDSmyxo5nMArwnzNMmRGAG8Do9QTBQ",
+  "schema": "technocore-contribution-proof-v1",
+  "signature": "vviOpi0MAhMew_9MxsuG6WaviN2HZ2cJTCESPdyYuPQjIdlUH8kqngWeFyXf4Mhy8CoLTFctmXoXeC3WOrKDAA"
+}
